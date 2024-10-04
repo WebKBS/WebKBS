@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=Next.js&logoColor=white">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebKBS)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebKBS&layout=compact)
 
 
 <!--
