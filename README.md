@@ -11,7 +11,7 @@
 ### FrameWork
 <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=Next.js&logoColor=white">
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WebKBS&bg_color=000000&color=8f8f8f&line=ff00e1&point=ffae00&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WebKBS&bg_color=000000&color=8f8f8f&line=ff00e1&point=ffffff&area=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebKBS&layout=compact)
 
